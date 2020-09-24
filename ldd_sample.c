@@ -186,5 +186,5 @@ static void ldd_exit(void)
 module_init(ldd_init);
 module_exit(ldd_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Faayiz");
-MODULE_DESCRIPTION("Major number driver check");
+MODULE_AUTHOR("Faayiz M");
+MODULE_DESCRIPTION("Simple character device driver");
